@@ -11,7 +11,7 @@ the messages that display if a puzzle is invalid.
 ## Usage
 
 ```python
-#on the OSU ENGR servers
+#on the server
 python3 sudoku.py # runs sudoku
 
 Modify any of the sudoku text files before running the program to see a valid or invalid result.
